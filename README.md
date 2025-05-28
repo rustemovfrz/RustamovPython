@@ -1,0 +1,2 @@
+# RustamovPython
+QA tasks
